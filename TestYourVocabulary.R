@@ -26,10 +26,11 @@ while ((dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]) != nrow(di
   
   if (yourGuess == "STOP IT") break()
   
-  if (!isItCorrect) print(paste0('Sorry, it was ',
-                          dictionary[rowToTest,German],
-                          ' = ',
-                          dictionary[rowToTest,English]))
+  if (!isItCorrect) {
+    print(paste0('Sorry, it was ',dictionary[rowToTest,German],' = ',dictionary[rowToTest,English]))
+    correction <- readline("Write it again   ")
+  }
+  
   dictionary[rowToTest,':='(SucceedSession = isItCorrect,
                             Score = Score-(1*!isItCorrect) + (1*isItCorrect))]
   
@@ -38,7 +39,7 @@ while ((dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]) != nrow(di
 nKnownWords <- dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]
 nWords <- nrow(dictionary)
 
-dictionary[,Succeed := Score >= 10]
+dictionary[,Succeed := Score >= 5]
 write.table(dictionary,
             file='GermanEnglish.csv',
             sep=";",
