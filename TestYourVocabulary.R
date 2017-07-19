@@ -36,16 +36,21 @@ while ((dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]) != nrow(di
   
 }
 
-nKnownWords <- dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]
-nWords <- nrow(dictionary)
-
 dictionary[,Succeed := Score >= 5]
 write.table(dictionary,
             file='GermanEnglish.csv',
             sep=";",
             row.names = FALSE)
 
-print(paste0("Your success rate is ",nKnownWords,"/",nWords))
+nKnownWords <- dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]
+nWords <- nrow(dictionary)
+nArchivedWords <- dictionary[,sum(Succeed)]
+
+print(paste0("Your success rate is ",nKnownWords,"/",nWords,
+      " so ",round(nKnownWords/nWords*100),"%."))
+print(paste0("You have ",nArchivedWords," archived words, so ",
+             round(nArchivedWords/nWords*100),"% of the dictionary."))
+
 # if (yourGuess == "STOP IT") print('Come back next time!')
 if (yourGuess != "STOP IT") print('Congratulations! Your are not Jon Snow, you know everything.')
 
