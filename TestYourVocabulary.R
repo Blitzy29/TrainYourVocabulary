@@ -1,10 +1,13 @@
 require(data.table)
-# require(plyr)
-# require(dplyr)
-# require(magrittr)
+require(plyr)
+require(dplyr)
+require(magrittr)
 
 dictionary <- fread('GermanEnglish.csv')
 dictionary[,SucceedSession := FALSE]
+dictionary[,TrySession := FALSE]
+
+triesSession <- 0
 
 while ((dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]) != nrow(dictionary)) {
   
@@ -32,22 +35,30 @@ while ((dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]) != nrow(di
   }
   
   dictionary[rowToTest,':='(SucceedSession = isItCorrect,
-                            Score = Score-(1*!isItCorrect) + (1*isItCorrect))]
+                            Score = Score-(1*!isItCorrect) + (1*isItCorrect),
+                            TrySession = TRUE)]
+  triesSession %<>%  +1
   
 }
 
+
 dictionary[,Succeed := Score >= 5]
+
 write.table(dictionary,
             file='GermanEnglish.csv',
             sep=";",
             row.names = FALSE)
 
+nKnownWordsSession <- dictionary[,sum(SucceedSession)]
+nTryWordsSession <- dictionary[,sum(TrySession)]
 nKnownWords <- dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]
 nWords <- nrow(dictionary)
 nArchivedWords <- dictionary[,sum(Succeed)]
 
-print(paste0("Your success rate is ",nKnownWords,"/",nWords,
-      " so ",round(nKnownWords/nWords*100),"%."))
+print(paste0("Your success rate is ",nKnownWordsSession,"/",triesSession,
+      " so ",round(nKnownWordsSession/triesSession*100),"%."))
+print(paste0("Over this session, you know ",nKnownWordsSession,"/",nTryWordsSession,
+      " words, so ",round(nKnownWordsSession/nTryWordsSession*100),"%."))
 print(paste0("You have ",nArchivedWords," archived words, so ",
              round(nArchivedWords/nWords*100),"% of the dictionary."))
 
