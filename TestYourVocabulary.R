@@ -7,6 +7,9 @@ dictionary <- fread('GermanEnglish.csv')
 dictionary[,SucceedSession := FALSE]
 dictionary[,TrySession := FALSE]
 
+historicalDataOld <- fread('HistoricalData.csv')
+historicalDataList <- NULL
+
 triesSession <- 0
 
 while ((dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]) != nrow(dictionary)) {
@@ -34,6 +37,13 @@ while ((dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]) != nrow(di
     correction <- readline("Write it again   ")
   }
   
+  historicalDataList %<>% append(list(data.table(time=Sys.time(),
+                                        germanWord=dictionary[rowToTest,German],
+                                        englishWord=dictionary[rowToTest,English],
+                                        scoreBefore=dictionary[rowToTest,Score],
+                                        languageAsked=germanOrEnglish,
+                                        result=isItCorrect)))
+  
   dictionary[rowToTest,':='(SucceedSession = isItCorrect,
                             Score = Score-(1*!isItCorrect) + (1*isItCorrect),
                             TrySession = TRUE)]
@@ -41,11 +51,19 @@ while ((dictionary[,sum(SucceedSession)] + dictionary[,sum(Succeed)]) != nrow(di
   
 }
 
+historicalDataNew <- rbindlist(historicalDataList)
+historicalDataNew[,time := as.character(time)]
+historicalData <- rbind(historicalDataOld,historicalDataNew)
 
 dictionary[,Succeed := Score >= 5]
 
 write.table(dictionary,
             file='GermanEnglish.csv',
+            sep=";",
+            row.names = FALSE)
+
+write.table(historicalData,
+            file='HistoricalData.csv',
             sep=";",
             row.names = FALSE)
 
