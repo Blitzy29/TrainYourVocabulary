@@ -1,344 +1,693 @@
-German;English;Score;SucceedSession;Succeed
-aber;but;0;FALSE;FALSE
-allein;alone;1;TRUE;FALSE
-alt;old;2;FALSE;FALSE
-andere;other;3;FALSE;FALSE
-anfangen;to start;0;FALSE;FALSE
-anklopfen;to knock;0;FALSE;FALSE
-anmachen;to light;0;FALSE;FALSE
-anziehen;to put a clothe on;0;FALSE;FALSE
-arbeiten;to work;0;FALSE;FALSE
-arbeitlos;unemployed;0;FALSE;FALSE
-attraktiv;attractive;2;FALSE;FALSE
-Auf Wiedersehen;goodbye;3;FALSE;FALSE
-aufgeben;to abandon;-1;FALSE;FALSE
-ausgezeichnet;excellent;0;FALSE;FALSE
-ausmachen;to turn off;1;FALSE;FALSE
-ausziehen;to take a clothe off;0;FALSE;FALSE
-beginnen;to begin;1;FALSE;FALSE
-besetzen;to occupy;-1;FALSE;FALSE
-bezahlen;to pay;0;FALSE;FALSE
-bis Bald;bye for now;1;FALSE;FALSE
-bis Später;see you later;2;TRUE;FALSE
-bitte;please;1;FALSE;FALSE
-bitte sehr;you're welcome;-1;FALSE;FALSE
-blau;blue;-1;FALSE;FALSE
-braun;brown;1;FALSE;FALSE
-bringen;to bring;-1;FALSE;FALSE
-danke;thank you;1;FALSE;FALSE
-das Ausbildung;the training;-1;FALSE;FALSE
-das Bein;the leg;1;FALSE;FALSE
-das Beispiel;the example;0;FALSE;FALSE
-das Bier;the beer;0;FALSE;FALSE
-das Brot;the bread;1;FALSE;FALSE
-das Buch;the book;-1;FALSE;FALSE
-das Café;the café;2;FALSE;FALSE
-das Dingsbums;the thingy;-1;FALSE;FALSE
-das Eis;the ice;0;FALSE;FALSE
-das Essen;the meal;-1;FALSE;FALSE
-das Fleisch;the meat;-2;FALSE;FALSE
-das Geld;the money;2;TRUE;FALSE
-das Gemüse;the vegetables;-1;FALSE;FALSE
-das Glück;the luck;0;FALSE;FALSE
-das Hemd;the shirt;-2;FALSE;FALSE
-das Insekt;the insect;1;FALSE;FALSE
-das Kind;the kid;2;FALSE;FALSE
-das Kino;the cinema;1;FALSE;FALSE
-das Kleid;the dress;0;FALSE;FALSE
-das Land;the country;1;FALSE;FALSE
-das Lotto;the lottery;1;FALSE;FALSE
-das Mädchen;the girl;2;FALSE;FALSE
-das Obst;the fruits;0;FALSE;FALSE
-das Öl;the oil;2;FALSE;FALSE
-das Pferd;the horse;1;FALSE;FALSE
-das Praktikum;the internship;0;FALSE;FALSE
-das Restaurant;the restaurant;0;FALSE;FALSE
-das Salz;the salt;1;FALSE;FALSE
-das Schwein;the pig;2;FALSE;FALSE
-das Sternzeichen;the zodiacal sign;0;FALSE;FALSE
-das Theater;the theater;0;FALSE;FALSE
-das Tier;the animal;1;FALSE;FALSE
-das Wasser;the water;0;FALSE;FALSE
-das Wissen;the knowledge;0;FALSE;FALSE
-denken;to think;1;FALSE;FALSE
-der Anrufer;the caller;0;FALSE;FALSE
-der Apfel;the apple;2;FALSE;FALSE
-der Arkitekt;the architect;1;FALSE;FALSE
-der Arzt;the doctor;0;FALSE;FALSE
-der Aufgabe;the task;1;FALSE;FALSE
-der Bär;the bear;0;FALSE;FALSE
-der Beruf;the profession;-1;FALSE;FALSE
-der Computer;the computer;0;FALSE;FALSE
-der Ei;the egg;1;FALSE;FALSE
-der Euro;the euro;1;FALSE;FALSE
-der Fisch;the fish;-1;FALSE;FALSE
-der Freund;the boyfriend;3;FALSE;FALSE
-der Frisör;the hairdresser;0;FALSE;FALSE
-der Frühling;the spring;0;FALSE;FALSE
-der Gast;the client;0;FALSE;FALSE
-der Herbst;the autumn;0;FALSE;FALSE
-der Historiker;the historian;0;FALSE;FALSE
-der Hund;the dog;10;FALSE;TRUE
-der Hut;the hat;-1;FALSE;FALSE
-der Ingenieur;the ingenieur;0;FALSE;FALSE
-der Journalist;the journalist;3;FALSE;FALSE
-der Junge;the boy;1;FALSE;FALSE
-der Käfer;the cockroach;0;FALSE;FALSE
-der Kaffee;the coffee;0;FALSE;FALSE
-der Käse;the cheese;4;TRUE;FALSE
-der Kellner;the waiter;1;FALSE;FALSE
-der Knopf;the button;-1;FALSE;FALSE
-der Küchenchef;the cook;0;FALSE;FALSE
-der Lehrer;the teacher;1;FALSE;FALSE
-der Löffel;the spoon;0;FALSE;FALSE
-der Mann;the man;3;FALSE;FALSE
-der Mantel;the coat;2;FALSE;FALSE
-der Mechatroniker;the mechanic;0;FALSE;FALSE
-der Opa;the grandpa;1;TRUE;FALSE
-der Orangensaft;the orange juice;1;FALSE;FALSE
-der Partner;the partner;1;FALSE;FALSE
-der Praktikant;the intern;2;FALSE;FALSE
-der Prinz;the prince;1;FALSE;FALSE
-der Pullover;the pull-over;2;FALSE;FALSE
-der Reichtum;the wealth;-1;FALSE;FALSE
-der Reis;the rice;1;FALSE;FALSE
-der Ring;the ring;1;FALSE;FALSE
-der Rock;the skirt;0;FALSE;FALSE
-der Saft;the juice;-2;FALSE;FALSE
-der Schatz;the treasure;0;FALSE;FALSE
-der Schauspieler;the actor;0;FALSE;FALSE
-der Schmuck;the jewelry;0;FALSE;FALSE
-der Schuh;the shoe;0;FALSE;FALSE
-der Sekretär;the secretary;1;FALSE;FALSE
-der Sommer;the summer;0;FALSE;FALSE
-der Statistiker;the statistician;0;FALSE;FALSE
-der Staz;the sentence;0;TRUE;FALSE
-der Stern;the star;1;FALSE;FALSE
-der Student;the student;0;FALSE;FALSE
-der Stuhl;the chair;0;FALSE;FALSE
-der Tee;the tea;0;FALSE;FALSE
-der Tisch;the table;-1;FALSE;FALSE
-der Verkäufer;the seller;-1;FALSE;FALSE
-der Vogel;the bird;-1;FALSE;FALSE
-der Wein;the wine;0;FALSE;FALSE
-der Winter;the winter;2;FALSE;FALSE
-der Wurst;the sausage;2;FALSE;FALSE
-der Zucker;the sugar;-1;FALSE;FALSE
-der Zuhörer;the listener;0;FALSE;FALSE
-Deutsch;German;1;FALSE;FALSE
-Deutschland;Germany;2;FALSE;FALSE
-die Antwort;the answer;0;FALSE;FALSE
-die Ärztin;the female doctor;0;FALSE;FALSE
-die Aussage;the statement;3;FALSE;FALSE
-die Banane;the banana;-1;FALSE;FALSE
-die Biene;the bee;-1;FALSE;FALSE
-die Bluse;the blouse;1;FALSE;FALSE
-die Daten;the data;-1;FALSE;FALSE
-die Ente;the duck;0;FALSE;FALSE
-die Erdbeere;the strawberry;0;FALSE;FALSE
-die Farbe;the color;-1;FALSE;FALSE
-die Fliege;the fly;-1;FALSE;FALSE
-die Frage;the question;0;FALSE;FALSE
-die Frau;the woman;1;FALSE;FALSE
-die Freundin;the girlfriend;1;TRUE;FALSE
-die Gemeinschaft;the community;0;FALSE;FALSE
-die Gewinnzahl;the winning number;0;FALSE;FALSE
-die Haustier;the pet;-2;FALSE;FALSE
-die Hose;the pants;0;TRUE;FALSE
-die Idee;the idea;0;FALSE;FALSE
-die Jacke;the jacket;2;FALSE;FALSE
-die Kartoffel;the potato;1;FALSE;FALSE
-die Katze;the cat;4;FALSE;FALSE
-die Kleidung;the clothes;0;FALSE;FALSE
-die Konstellation;the constellation;-1;FALSE;FALSE
-die Kosmetik;the make-up;3;FALSE;FALSE
-die Kuchen;the cake;2;TRUE;FALSE
-die Kuh;the cow;-1;FALSE;FALSE
-die Lampe;the lamp;0;FALSE;FALSE
-die Maus;the mouse;-1;FALSE;FALSE
-die Meeresfrucht;the sea food;1;FALSE;FALSE
-die Milch;the milk;1;FALSE;FALSE
-die Nudel;the pasta;0;FALSE;FALSE
-die Oma;the grandma;1;FALSE;FALSE
-die Orange;the orange;2;FALSE;FALSE
-die Socke;the sock;-1;FALSE;FALSE
-die Speisekarte;the menu;0;FALSE;FALSE
-die Spezialität;the specialty;0;FALSE;FALSE
-die Spinne;the spider;0;FALSE;FALSE
-die Stadt;the city;0;FALSE;FALSE
-die Strumpfhose;the hoose;2;FALSE;FALSE
-die Suppe;the soup;1;FALSE;FALSE
-die Tasche;the bag;0;FALSE;FALSE
-die Tomate;the tomato;0;FALSE;FALSE
-die Wissenschaftler;the scientist;1;FALSE;FALSE
-die Zahl;the number;1;FALSE;FALSE
-die Zeit;the time;2;TRUE;FALSE
-die Zeitung;the newspaper;3;FALSE;FALSE
-Dienstag;Tuesday;1;FALSE;FALSE
-Donnerstag;Thursday;-1;FALSE;FALSE
-Durst;thirsty;0;FALSE;FALSE
-einfach;easy;-1;FALSE;FALSE
-einmal;once;0;FALSE;FALSE
-Englisch;English;0;FALSE;FALSE
-entfernen;to remove;-1;FALSE;FALSE
-entschuldigung;excuse-me;0;FALSE;FALSE
-erste;first;0;FALSE;FALSE
-essen;to eat;10;FALSE;TRUE
-fahren;to drive;-1;FALSE;FALSE
-fälligkeit;due date;0;FALSE;FALSE
-falsch;wrong;0;FALSE;FALSE
-fantastisch;fantastic;0;FALSE;FALSE
-faszinierend;fascinating;2;FALSE;FALSE
-fertig;ready;-1;FALSE;FALSE
-Französisch;French;0;FALSE;FALSE
-frei;free;1;FALSE;FALSE
-Freitag;Friday;3;FALSE;FALSE
-fressen;to eat (animal);1;FALSE;FALSE
-frisch;fresh;0;FALSE;FALSE
-fügen;to add;-3;FALSE;FALSE
-geben;to give;2;FALSE;FALSE
-gehen;to go;5;FALSE;FALSE
-gelb;yellow;-1;FALSE;FALSE
-genau;I agree;1;FALSE;FALSE
-gerade;just;1;FALSE;FALSE
-gern geschehen;you are welcome;-1;FALSE;FALSE
-geschieden;divorced;1;FALSE;FALSE
-gesund;good for the health;-1;FALSE;FALSE
-gewinnen;to win;0;FALSE;FALSE
-glauben;to believe;2;FALSE;FALSE
-gleich;soon;-2;FALSE;FALSE
-glücklich;happy;0;FALSE;FALSE
-golden;golden;0;FALSE;FALSE
-gratis;free (money);1;TRUE;FALSE
-grau;grey;1;TRUE;FALSE
-gross;big;2;FALSE;FALSE
-grün;green;3;FALSE;FALSE
-gut;good;1;FALSE;FALSE
-Gute Nacht;good night;0;FALSE;FALSE
-Guten Abend;good evening;0;FALSE;FALSE
-Guten Morgen;good morning;1;TRUE;FALSE
-Guten Tag;good day;0;FALSE;FALSE
-haben;to have;1;FALSE;FALSE
-hallo;hello;2;FALSE;FALSE
-hässlich;ugly;1;FALSE;FALSE
-heissen;to be named;0;FALSE;FALSE
-heute;today;4;FALSE;FALSE
-hoch;up;0;FALSE;FALSE
-hören;to listen;1;FALSE;FALSE
-hübsch;pretty;0;FALSE;FALSE
-hunger;hungry;2;FALSE;FALSE
-interessant;interesting;1;FALSE;FALSE
-ja;yes;0;FALSE;FALSE
-jede;each;0;FALSE;FALSE
-jetzt;now;0;FALSE;FALSE
-kalt;cold;1;FALSE;FALSE
-Kanada;Canada;0;FALSE;FALSE
-kennen;to know;3;FALSE;FALSE
-klar;clear;0;FALSE;FALSE
-klein;little;0;TRUE;FALSE
-knipsen;to push;-1;FALSE;FALSE
-kommen;to come;3;FALSE;FALSE
-kurz;short;1;FALSE;FALSE
-lang;long;0;FALSE;FALSE
-langsam;slow;1;FALSE;FALSE
-laufen;to walk;0;FALSE;FALSE
-laut;loud;0;FALSE;FALSE
-lecker;delicious;2;FALSE;FALSE
-ledig;single;3;TRUE;FALSE
-leer;empty;0;FALSE;FALSE
-leicht;light;0;FALSE;FALSE
-leider;unfortunately;1;FALSE;FALSE
-leise;discrete;-2;FALSE;FALSE
-lernen;to learn;1;FALSE;FALSE
-lesen;to read;6;FALSE;FALSE
-lustig;funny;0;FALSE;FALSE
-mag;like;0;FALSE;FALSE
-mehrere;several;0;FALSE;FALSE
-Menschen;humans;0;FALSE;FALSE
-Mittwoch;Wednesday;1;FALSE;FALSE
-Montag;Monday;3;FALSE;FALSE
-müde;tired;2;FALSE;FALSE
-neben;nearby;0;FALSE;FALSE
-nein;no;1;FALSE;FALSE
-neu;new;1;FALSE;FALSE
-noch;again;0;FALSE;FALSE
-normal;normal;2;FALSE;FALSE
-orangen;orange;3;FALSE;FALSE
-passen;to go well;0;FALSE;FALSE
-perfekt;perfect;0;FALSE;FALSE
-pikant;spicy;1;FALSE;FALSE
-prima;fine;0;TRUE;FALSE
-reichen;to be sufficient;-3;FALSE;FALSE
-rennen;to run;1;FALSE;FALSE
-reservieren;to reserve;-1;FALSE;FALSE
-richtig;correct;0;FALSE;FALSE
-rot;red;3;FALSE;FALSE
-ruhig;quiet;-2;FALSE;FALSE
-rund;round;2;FALSE;FALSE
-sagen;to say;0;FALSE;FALSE
-Samstag;Saturday;0;FALSE;FALSE
-sauber;clean;0;FALSE;FALSE
-schade;too bad;1;TRUE;FALSE
-schlafen;to sleep;1;FALSE;FALSE
-schlecht;bad;-1;FALSE;FALSE
-schmecken;to be good;0;FALSE;FALSE
-schmutzig;dirty;0;FALSE;FALSE
-schnell;fast;1;FALSE;FALSE
-Schokolade;chocolate;0;FALSE;FALSE
-schon;already;0;FALSE;FALSE
-schön;nice;0;FALSE;FALSE
-schreiben;to write;0;FALSE;FALSE
-schwach;weak;-1;FALSE;FALSE
-schwarz;black;2;FALSE;FALSE
-schwer;hard;-2;FALSE;FALSE
-schwierig;difficult;-1;FALSE;FALSE
-schwimmen;to swim;1;FALSE;FALSE
-schwul;gay lovers;-1;FALSE;FALSE
-schwül;humide;-1;FALSE;FALSE
-sehen;to see;0;FALSE;FALSE
-sein;to be;4;FALSE;FALSE
-Sonntag;Sunday;1;FALSE;FALSE
-spät;late;0;FALSE;FALSE
-spielen;to play;1;FALSE;FALSE
-sprechen;to speak;4;FALSE;FALSE
-stark;strong;1;FALSE;FALSE
-stehen;to stand up;2;TRUE;FALSE
-studieren;to study;3;FALSE;FALSE
-süss;sweet;0;FALSE;FALSE
-tausend;thousand;0;FALSE;FALSE
-teuer;expensive;0;FALSE;FALSE
-tief;deep;0;FALSE;FALSE
-toll;formidable;2;FALSE;FALSE
-tragen;to wear;0;FALSE;FALSE
-traurig;sad;-1;FALSE;FALSE
-trinken;to drink;2;FALSE;FALSE
-Tschüss;bye;0;FALSE;FALSE
-tut mir leid;I'm sorry;1;FALSE;FALSE
-überall;everywhere;0;FALSE;FALSE
-umkämpfen;to beat;0;FALSE;FALSE
-und;and;2;FALSE;FALSE
-vegetarier;vegetarian;-1;FALSE;FALSE
-verheiratet;married;0;FALSE;FALSE
-verrückt;mad;0;FALSE;FALSE
-verstehen;to understand;0;FALSE;FALSE
-viel;a lot;0;FALSE;FALSE
-vielleicht;maybe;-1;FALSE;FALSE
-warm;warm;0;FALSE;FALSE
-warum;why;0;FALSE;FALSE
-Was machst du beruflich?;What is your work?;0;FALSE;FALSE
-waschen;to wash;0;FALSE;FALSE
-weil;because;0;FALSE;FALSE
-weiss;white;0;FALSE;FALSE
-weit;far;0;FALSE;FALSE
-wichtig;important;-1;FALSE;FALSE
-wie geht es dir?;how are you?;0;FALSE;FALSE
-wieder;another time;0;FALSE;FALSE
-wilkommen;welcome;1;FALSE;FALSE
-wirklich;really;0;FALSE;FALSE
-wissen;to realize;-1;FALSE;FALSE
-wo;where;0;FALSE;FALSE
-wohnen;to live;1;FALSE;FALSE
-zeigen;to show;1;FALSE;FALSE
-zurzeit;for now;-1;FALSE;FALSE
-zusammen;together;1;FALSE;FALSE
-zweite;second;2;TRUE;FALSE
+German;English;Score;SucceedSession;Succeed;TrySession
+aber;but;5;FALSE;TRUE;FALSE
+allein;alone;5;FALSE;TRUE;FALSE
+alt;old;5;FALSE;TRUE;FALSE
+altmodisch;old-fashioned;1;FALSE;FALSE;FALSE
+andere;other;5;FALSE;TRUE;FALSE
+anfangen;to start;-2;FALSE;FALSE;FALSE
+anklopfen;to knock;0;FALSE;FALSE;FALSE
+anmachen;to light;4;TRUE;FALSE;TRUE
+anziehen;to put a clothe on;5;FALSE;TRUE;FALSE
+April;April;-1;FALSE;FALSE;FALSE
+arbeiten;to work;5;FALSE;TRUE;FALSE
+arbeitlos;unemployed;3;FALSE;FALSE;FALSE
+attraktiv;attractive;5;FALSE;TRUE;FALSE
+auch;also;1;TRUE;FALSE;TRUE
+auf Wiedersehen;goodbye;5;FALSE;TRUE;FALSE
+aufgeben;to abandon;4;FALSE;FALSE;FALSE
+aufhören;to stop;-2;FALSE;FALSE;TRUE
+aufreissen;to tear open;-2;FALSE;FALSE;FALSE
+August;August;2;TRUE;FALSE;TRUE
+ausgestorben;extinct;-1;FALSE;FALSE;TRUE
+ausgezeichnet;excellent;0;FALSE;FALSE;FALSE
+ausmachen;to turn off;5;FALSE;TRUE;FALSE
+ausziehen;to take a clothe off;4;FALSE;FALSE;FALSE
+beginnen;to begin;5;FALSE;TRUE;FALSE
+Bekannte;the friends;-3;FALSE;FALSE;TRUE
+besetzen;to occupy;-6;FALSE;FALSE;FALSE
+besprechen;to discuss;-1;TRUE;FALSE;TRUE
+bezahlen;to pay;1;FALSE;FALSE;FALSE
+billig;cheap;2;FALSE;FALSE;FALSE
+bis Bald;bye for now;5;FALSE;TRUE;FALSE
+bis Später;see you later;5;FALSE;TRUE;FALSE
+bitte;please;5;FALSE;TRUE;FALSE
+bitte sehr;you're welcome;5;FALSE;TRUE;FALSE
+blau;blue;5;FALSE;TRUE;FALSE
+bleiben;to remain;-2;FALSE;FALSE;TRUE
+brauchen;to need;2;FALSE;FALSE;FALSE
+braun;brown;4;TRUE;FALSE;TRUE
+bringen;to bring;1;FALSE;FALSE;FALSE
+daher;therefore;-1;FALSE;FALSE;FALSE
+damit;in order to;-1;FALSE;FALSE;FALSE
+daneben;besides that;-1;FALSE;FALSE;TRUE
+danke;thank you;5;FALSE;TRUE;FALSE
+dann;then;0;FALSE;FALSE;FALSE
+darauf;thereon;-2;FALSE;FALSE;TRUE
+das Abkommen;the agreement;-3;FALSE;FALSE;FALSE
+das Auge;the eye;2;FALSE;FALSE;FALSE
+das Ausbildung;the training;-3;FALSE;FALSE;FALSE
+das Bein;the leg;3;FALSE;FALSE;FALSE
+das Beispiel;the example;0;FALSE;FALSE;TRUE
+das Bett;the bed;2;TRUE;FALSE;TRUE
+das Bier;the beer;5;FALSE;TRUE;FALSE
+das Bild;the picture;2;FALSE;FALSE;FALSE
+das Boot;the boat;1;FALSE;FALSE;FALSE
+das Brot;the bread;5;FALSE;TRUE;FALSE
+das Buch;the book;1;FALSE;FALSE;FALSE
+das Café;the café;5;FALSE;TRUE;FALSE
+das Camping;the camping;2;TRUE;FALSE;TRUE
+das Dingsbums;the thingy;0;FALSE;FALSE;FALSE
+das Einkommen;the income;-2;TRUE;FALSE;TRUE
+das Eis;the ice;5;FALSE;TRUE;FALSE
+das Ende;the end;1;TRUE;FALSE;TRUE
+das Ereignis;the event;-2;FALSE;FALSE;TRUE
+das Essen;the meal;5;FALSE;TRUE;FALSE
+das Ethik;the ethique;0;FALSE;FALSE;FALSE
+das Fach;the compartment;-2;FALSE;FALSE;FALSE
+das Fenster;the window;-1;TRUE;FALSE;TRUE
+das Fleisch;the meat;1;FALSE;FALSE;FALSE
+das Flugzeug;the plane;1;FALSE;FALSE;FALSE
+das Gebäck;the pastry;-3;FALSE;FALSE;FALSE
+das Geheimnis;the secret;-3;FALSE;FALSE;TRUE
+das Geld;the money;5;FALSE;TRUE;FALSE
+das Gemüse;the vegetables;5;FALSE;TRUE;FALSE
+das Geschäft;the shop;-5;FALSE;FALSE;FALSE
+das Geschirr;the dishes;-5;FALSE;FALSE;TRUE
+das Gesicht;the face;0;FALSE;FALSE;FALSE
+das Getränk;the drink;0;FALSE;FALSE;FALSE
+das Gewicht;the weight;-1;FALSE;FALSE;TRUE
+das Glied;the limb;-3;FALSE;FALSE;FALSE
+das Glück;the luck;1;FALSE;FALSE;FALSE
+das Haar;the hair;2;FALSE;FALSE;FALSE
+das Haus;the house;2;FALSE;FALSE;FALSE
+das Hemd;the shirt;-2;TRUE;FALSE;TRUE
+das Herz;the heart;-1;FALSE;FALSE;FALSE
+das Hotel;the hotel;3;FALSE;FALSE;FALSE
+das Huhn;the chicken;3;FALSE;FALSE;FALSE
+das Insekt;the insect;5;FALSE;TRUE;FALSE
+das Interesse;the interest;0;FALSE;FALSE;FALSE
+das Interview;the interview;1;FALSE;FALSE;FALSE
+das Jahr;the year;4;TRUE;FALSE;TRUE
+das Kind;the kid;5;FALSE;TRUE;FALSE
+das Kino;the cinema;3;FALSE;FALSE;FALSE
+das Kissen;the pillow;0;TRUE;FALSE;TRUE
+das Kleid;the dress;5;TRUE;TRUE;TRUE
+das Krakenhaus;the hospital;1;FALSE;FALSE;FALSE
+das Land;the country;4;FALSE;FALSE;FALSE
+das Leben;the life;-2;FALSE;FALSE;FALSE
+das Lotto;the lottery;5;FALSE;TRUE;FALSE
+das Mädchen;the girl;5;FALSE;TRUE;FALSE
+das Meer;the sea;2;FALSE;FALSE;FALSE
+das Mitglied;the member;1;FALSE;FALSE;FALSE
+das Obst;the fruit;4;TRUE;FALSE;TRUE
+das Ohr;the ear;3;TRUE;FALSE;TRUE
+das Öl;the oil;5;FALSE;TRUE;FALSE
+das Organ;the organ;5;FALSE;TRUE;FALSE
+das Paar;the pair;0;FALSE;FALSE;FALSE
+das Pferd;the horse;5;FALSE;TRUE;FALSE
+das Praktikum;the internship;4;FALSE;FALSE;FALSE
+das Problem;the problem;1;FALSE;FALSE;FALSE
+das Pronomen;the pronoun;3;FALSE;FALSE;FALSE
+das Radio;the radio;3;TRUE;FALSE;TRUE
+das Regal;the shelve;3;FALSE;FALSE;FALSE
+das Restaurant;the restaurant;3;FALSE;FALSE;FALSE
+das Ritual;the ritual;1;TRUE;FALSE;TRUE
+das Salz;the salt;5;FALSE;TRUE;FALSE
+das Schiff;the ship;4;FALSE;FALSE;FALSE
+das Schwein;the pig;5;FALSE;TRUE;FALSE
+das Sofa;the sofa;2;FALSE;FALSE;FALSE
+das Sonderangebot;the special offer;1;FALSE;FALSE;FALSE
+das Sternzeichen;the zodiacal sign;-4;FALSE;FALSE;FALSE
+das Telefon;the telephone;2;FALSE;FALSE;FALSE
+das Theater;the theater;-1;FALSE;FALSE;FALSE
+das Tier;the animal;5;FALSE;TRUE;FALSE
+das Töpfchen;the potty;-1;FALSE;FALSE;TRUE
+das Verb;the verb;4;FALSE;FALSE;FALSE
+das Waschen;the washing;2;FALSE;FALSE;FALSE
+das Wasser;the water;5;FALSE;TRUE;FALSE
+das Wetter;the weather;4;FALSE;FALSE;FALSE
+das Wissen;the knowledge;5;FALSE;TRUE;FALSE
+das Wort;the word;5;FALSE;TRUE;FALSE
+davon;thereof;-1;FALSE;FALSE;FALSE
+deklinieren;to decline;1;FALSE;FALSE;FALSE
+denken;to think;5;FALSE;TRUE;FALSE
+der Anrufer;the caller;1;FALSE;FALSE;FALSE
+der Apfel;the apple;5;FALSE;TRUE;FALSE
+der Arkitekt;the architect;5;FALSE;TRUE;FALSE
+der Arzt;the doctor;5;FALSE;TRUE;FALSE
+der Aufgabe;the task;5;FALSE;TRUE;FALSE
+der Bär;the bear;0;FALSE;FALSE;FALSE
+der Berg;the mountain;1;FALSE;FALSE;FALSE
+der Beruf;the profession;-4;FALSE;FALSE;FALSE
+der Besitz;the possession;-7;FALSE;FALSE;TRUE
+der Beweis;the proof;-5;FALSE;FALSE;TRUE
+der Blumentopf;the flowerpot;-1;FALSE;FALSE;TRUE
+der Brand;the fire;3;FALSE;FALSE;FALSE
+der Briefwechsel;the correspondence;-2;FALSE;FALSE;FALSE
+der Bruch;the facture;-1;FALSE;FALSE;FALSE
+der Bruder;the brother;5;FALSE;TRUE;FALSE
+der Charakter;the character;-1;FALSE;FALSE;FALSE
+der Computer;the computer;5;FALSE;TRUE;FALSE
+der Designer;the designer;4;FALSE;FALSE;FALSE
+der Dreh;the twist;-1;FALSE;FALSE;TRUE
+der Ecke;the corner;-1;FALSE;FALSE;FALSE
+der Ehemann;the husband;1;FALSE;FALSE;FALSE
+der Ei;the egg;5;FALSE;TRUE;FALSE
+der Enkel;the grand-son;5;FALSE;TRUE;FALSE
+der Ersatz;the replacement;0;FALSE;FALSE;FALSE
+der Euro;the euro;3;FALSE;FALSE;FALSE
+der Fehler;the mistake;0;FALSE;FALSE;FALSE
+der Fernseher;the television;-1;FALSE;FALSE;TRUE
+der Film;the movie;0;FALSE;FALSE;FALSE
+der Fisch;the fish;3;FALSE;FALSE;FALSE
+der Fluss;the river;2;TRUE;FALSE;TRUE
+der Freund;the boyfriend;5;FALSE;TRUE;FALSE
+der Friseur;the hairdresser;3;FALSE;FALSE;FALSE
+der Frühling;the spring;2;TRUE;FALSE;TRUE
+der Fussweg;the footpath;-2;FALSE;FALSE;FALSE
+der Garten;the garden;1;FALSE;FALSE;FALSE
+der Gaschmack;the taste;-1;FALSE;FALSE;FALSE
+der Gast;the client;2;FALSE;FALSE;TRUE
+der Geist;the gosht;-1;TRUE;FALSE;TRUE
+der Grad;the degree;0;FALSE;FALSE;FALSE
+der Grossvater;the grand-father;5;FALSE;TRUE;FALSE
+der Hase;the rabbit;0;FALSE;FALSE;FALSE
+der Hausbau;the house construction;-2;FALSE;FALSE;FALSE
+der Haushalt;the household;-3;FALSE;FALSE;FALSE
+der Herbst;the autumn;5;FALSE;TRUE;FALSE
+der Himmel;the sky;0;FALSE;FALSE;TRUE
+der Historiker;the historian;4;FALSE;FALSE;FALSE
+der Hund;the dog;5;FALSE;TRUE;FALSE
+der Hut;the hat;1;FALSE;FALSE;FALSE
+der Ingenieur;the ingenieur;4;FALSE;FALSE;FALSE
+der Journalist;the journalist;5;FALSE;TRUE;FALSE
+der Junge;the boy;5;FALSE;TRUE;FALSE
+der Käfer;the cockroach;0;FALSE;FALSE;FALSE
+der Kaffee;the coffee;4;FALSE;FALSE;FALSE
+der Käse;the cheese;5;FALSE;TRUE;FALSE
+der Kellner;the waiter;5;FALSE;TRUE;FALSE
+der Knopf;the button;4;TRUE;FALSE;TRUE
+der Kollege;the colleague;2;TRUE;FALSE;TRUE
+der Konflikt;the conflict;-2;FALSE;FALSE;FALSE
+der Kopf;the head;2;FALSE;FALSE;FALSE
+der Körper;the body;5;FALSE;TRUE;FALSE
+der Krieg;the war;2;FALSE;FALSE;FALSE
+der Küchenchef;the cook;2;TRUE;FALSE;TRUE
+der Kühlschrank;the fridge;5;TRUE;TRUE;TRUE
+der Lehrer;the teacher;5;FALSE;TRUE;FALSE
+der Löffel;the spoon;2;FALSE;FALSE;TRUE
+der Maler;the painter;1;FALSE;FALSE;FALSE
+der Mann;the man;5;FALSE;TRUE;FALSE
+der Mantel;the coat;5;FALSE;TRUE;FALSE
+der Mechatroniker;the mechanic;5;FALSE;TRUE;FALSE
+der Mensch;the human;5;FALSE;TRUE;FALSE
+der Mieter;the tenant;-3;FALSE;FALSE;FALSE
+der Mund;the mouth;0;FALSE;FALSE;FALSE
+der Mut;the courage;-1;TRUE;FALSE;TRUE
+der Nachmittag;the afternoon;-1;FALSE;FALSE;TRUE
+der Nachtisch;the dessert;-1;FALSE;FALSE;FALSE
+der Opa;the grandpa;5;FALSE;TRUE;FALSE
+der Orangensaft;the orange juice;5;FALSE;TRUE;FALSE
+der Partner;the partner;5;FALSE;TRUE;FALSE
+der Polizei;the police;0;FALSE;FALSE;TRUE
+der Praktikant;the intern;5;FALSE;TRUE;FALSE
+der Preis;the price;2;FALSE;FALSE;FALSE
+der Prinz;the prince;5;FALSE;TRUE;FALSE
+der Pullover;the pull-over;5;FALSE;TRUE;FALSE
+der Raum;the space;-4;FALSE;FALSE;FALSE
+der Reichtum;the wealth;0;FALSE;FALSE;FALSE
+der Reis;the rice;5;FALSE;TRUE;FALSE
+der Ring;the ring;1;FALSE;FALSE;FALSE
+der Rock;the skirt;4;FALSE;FALSE;FALSE
+der Saft;the juice;-1;TRUE;FALSE;TRUE
+der Schatz;the treasure;3;FALSE;FALSE;FALSE
+der Schauspieler;the actor;5;FALSE;TRUE;FALSE
+der Schmuck;the jewelry;-2;FALSE;FALSE;FALSE
+der Schrank;the cupboard;2;FALSE;FALSE;FALSE
+der Schuh;the shoe;-1;FALSE;FALSE;FALSE
+der See;the lake;-1;FALSE;FALSE;FALSE
+der Sekretär;the secretary;5;FALSE;TRUE;FALSE
+der Sessel;the armchair;1;FALSE;FALSE;FALSE
+der Sohn;the son;5;FALSE;TRUE;FALSE
+der Sommer;the summer;5;FALSE;TRUE;FALSE
+der Spasse;the fun;0;FALSE;FALSE;FALSE
+der Sport;the sport;0;FALSE;FALSE;FALSE
+der Standort;the location;-1;TRUE;FALSE;TRUE
+der Statistiker;the statistician;5;FALSE;TRUE;FALSE
+der Staz;the sentence;-4;FALSE;FALSE;FALSE
+der Stern;the star;5;FALSE;TRUE;FALSE
+der Strom;the electricity;0;FALSE;FALSE;FALSE
+der Student;the student;5;FALSE;TRUE;FALSE
+der Stuhl;the chair;5;FALSE;TRUE;FALSE
+der Tag;the day;3;TRUE;FALSE;TRUE
+der Täter;the offender;2;FALSE;FALSE;TRUE
+der Tee;the tea;5;FALSE;TRUE;FALSE
+der Teil;the part;-2;FALSE;FALSE;TRUE
+der Teller;the plate;1;FALSE;FALSE;FALSE
+der Teppich;the carpet;2;FALSE;FALSE;FALSE
+der Text;the text;2;FALSE;FALSE;FALSE
+der Tisch;the table;-2;FALSE;FALSE;FALSE
+der Tod;the death;1;FALSE;FALSE;FALSE
+der Transport;the transport;-1;FALSE;FALSE;FALSE
+der Unfall;the accident;1;FALSE;FALSE;FALSE
+der Vater;the father;5;FALSE;TRUE;FALSE
+der Verkäufer;the seller;0;FALSE;FALSE;TRUE
+der Verkehr;the circulation;-3;FALSE;FALSE;FALSE
+der Verleih;the rental shop;-1;FALSE;FALSE;FALSE
+der Veteran;the veteran;3;TRUE;FALSE;TRUE
+der Vogel;the bird;5;TRUE;TRUE;TRUE
+der Vorfall;the incident;0;FALSE;FALSE;FALSE
+der Wahnsinn;the madness;-2;FALSE;FALSE;TRUE
+der Wein;the wine;5;FALSE;TRUE;FALSE
+der Wert;the value;-1;FALSE;FALSE;FALSE
+der Winter;the winter;5;FALSE;TRUE;FALSE
+der Würfel;the dice;0;FALSE;FALSE;FALSE
+der Wurst;the sausage;5;FALSE;TRUE;FALSE
+der Zucker;the sugar;2;FALSE;FALSE;FALSE
+der Zug;the train;2;FALSE;FALSE;FALSE
+der Zuhörer;the listener;4;FALSE;FALSE;FALSE
+der Zweifel;the doubt;0;FALSE;FALSE;FALSE
+Deutsch;German;5;FALSE;TRUE;FALSE
+Deutschland;Germany;5;FALSE;TRUE;FALSE
+Dezember;December;0;FALSE;FALSE;FALSE
+dick;thick;0;FALSE;FALSE;FALSE
+die Ablehnung;the refusal;-2;FALSE;FALSE;FALSE
+die Angst;the fear;5;FALSE;TRUE;FALSE
+die Antwort;the answer;5;FALSE;TRUE;FALSE
+die Apotheke;the pharmacy;1;FALSE;FALSE;TRUE
+die Armut;the poverty;-4;FALSE;FALSE;FALSE
+die Ärztin;the female doctor;3;FALSE;FALSE;TRUE
+die Aufmerksamkeit;the attention;-4;FALSE;FALSE;FALSE
+die Aufnahme;the reception;0;FALSE;FALSE;FALSE
+die Ausnahme;the exception;1;TRUE;FALSE;TRUE
+die Ausrüstung;the equipment;0;FALSE;FALSE;FALSE
+die Aussage;the statement;5;FALSE;TRUE;FALSE
+die Banane;the banana;5;FALSE;TRUE;FALSE
+die Bedingung;the condition;-5;FALSE;FALSE;FALSE
+die Bejahung;the affirmation;-5;FALSE;FALSE;FALSE
+die Bewegung;the movement;-2;FALSE;FALSE;FALSE
+die Beziehung;the relationship;-3;FALSE;FALSE;FALSE
+die Biene;the bee;-2;FALSE;FALSE;TRUE
+die Blume;the flower;4;TRUE;FALSE;TRUE
+die Bluse;the blouse;5;FALSE;TRUE;FALSE
+die Couch;the couch;2;FALSE;FALSE;FALSE
+die Daten;the data;0;FALSE;FALSE;FALSE
+die Diskussion;the discussion;3;TRUE;FALSE;TRUE
+die Dose;the can;0;TRUE;FALSE;TRUE
+die Ehefrau;the wife;5;FALSE;TRUE;FALSE
+die Eltern;the parents;4;FALSE;FALSE;FALSE
+die Enkelin;the grand-daughter;5;FALSE;TRUE;FALSE
+die Ente;the duck;5;FALSE;TRUE;FALSE
+die Entfernung;the distance;-2;FALSE;FALSE;FALSE
+die Entscheidung;the decision;-7;FALSE;FALSE;TRUE
+die Erdbeere;the strawberry;2;FALSE;FALSE;FALSE
+die Erkältung;a cold;-2;FALSE;FALSE;TRUE
+die Erläuterung;the explication;-1;FALSE;FALSE;TRUE
+die Familie;the family;2;FALSE;FALSE;FALSE
+die Farbe;the color;1;FALSE;FALSE;FALSE
+die Feuerwehr;the fire brigade;4;FALSE;FALSE;FALSE
+die Flexion;the inflection;-1;FALSE;FALSE;FALSE
+die Fliege;the fly;4;FALSE;FALSE;FALSE
+die Folgerung;the consequence;-2;TRUE;FALSE;TRUE
+die Fotografie;the photography;0;FALSE;FALSE;FALSE
+die Frage;the question;5;TRUE;TRUE;TRUE
+die Frau;the woman;5;FALSE;TRUE;FALSE
+die Freundin;the girlfriend;4;FALSE;FALSE;FALSE
+die Garantie;the guarantee;-1;FALSE;FALSE;FALSE
+die Gefahr;the danger;-6;FALSE;FALSE;FALSE
+die Gefühl;the feeling;-2;FALSE;FALSE;FALSE
+die Gegenwart;the present;-2;FALSE;FALSE;FALSE
+die Gemeinschaft;the community;0;FALSE;FALSE;FALSE
+die Generation;the generation;3;FALSE;FALSE;FALSE
+die Geographie;the geography;1;FALSE;FALSE;FALSE
+die Geschichte;the story;0;FALSE;FALSE;FALSE
+die Geschwindigkeit;the speed;-2;FALSE;FALSE;FALSE
+die Geschwister;the siblings;1;FALSE;FALSE;FALSE
+die Gesellschaft;the society;-1;FALSE;FALSE;FALSE
+die Gesundheit;the health;1;TRUE;FALSE;TRUE
+die Gewinnzahl;the winning number;5;FALSE;TRUE;FALSE
+die Grosseltern;the grand-parents;3;FALSE;FALSE;FALSE
+die Grossmutter;the grand-mother;5;FALSE;TRUE;FALSE
+die Hängematte;the hammock;2;FALSE;FALSE;FALSE
+die Häufigkeit;the frequency;-4;FALSE;FALSE;FALSE
+die Haustier;the pet;-1;FALSE;FALSE;FALSE
+die Heizung;the heater;-4;FALSE;FALSE;FALSE
+die Hochzeit;the marriage;-3;FALSE;FALSE;FALSE
+die Höhe;the height;0;FALSE;FALSE;FALSE
+die Hose;the pants;5;FALSE;TRUE;FALSE
+die Idee;the idea;3;FALSE;FALSE;FALSE
+die Identität;the identity;-1;FALSE;FALSE;TRUE
+die Jacke;the jacket;5;FALSE;TRUE;FALSE
+die Kartoffel;the potato;5;FALSE;TRUE;FALSE
+die Katze;the cat;5;FALSE;TRUE;FALSE
+die Kirche;the church;5;TRUE;TRUE;TRUE
+die Kleidung;the clothes;-2;FALSE;FALSE;FALSE
+die Konstellation;the constellation;2;FALSE;FALSE;FALSE
+die Körperpflege;the personal hygiene;2;FALSE;FALSE;FALSE
+die Kosmetik;the make-up;5;FALSE;TRUE;FALSE
+die Krankheit;the disease;0;FALSE;FALSE;FALSE
+die Küche;the kitchen;4;FALSE;FALSE;FALSE
+die Kuchen;the cake;-1;FALSE;FALSE;FALSE
+die Kuh;the cow;3;FALSE;FALSE;FALSE
+die Lampe;the lamp;5;FALSE;TRUE;FALSE
+die Landwirtschaft;the agriculture;-2;FALSE;FALSE;FALSE
+die Leistung;the power;0;FALSE;FALSE;FALSE
+die Liebe;the love;1;FALSE;FALSE;FALSE
+die Literatur;the literature;1;FALSE;FALSE;FALSE
+die Malerei;the painting;-1;FALSE;FALSE;FALSE
+die Markise;the awning;-1;FALSE;FALSE;FALSE
+die Maus;the mouse;1;FALSE;FALSE;FALSE
+die Meeresfrucht;the sea food;3;FALSE;FALSE;FALSE
+die Meinung;the opinion;-1;FALSE;FALSE;TRUE
+die Menge;the amount;-3;FALSE;FALSE;TRUE
+die Milch;the milk;5;FALSE;TRUE;FALSE
+die Mitteilung;the information;-4;FALSE;FALSE;FALSE
+die Möbel;the furniture;0;FALSE;FALSE;FALSE
+die Moral;the morality;5;FALSE;TRUE;FALSE
+die Musik;the musique;-2;FALSE;FALSE;TRUE
+die Mutter;the mother;5;FALSE;TRUE;FALSE
+die Nase;the nose;1;FALSE;FALSE;FALSE
+die Note;the note;0;FALSE;FALSE;FALSE
+die Nudel;the pasta;4;TRUE;FALSE;TRUE
+die Oma;the grandma;5;FALSE;TRUE;FALSE
+die Orange;the orange;3;FALSE;FALSE;TRUE
+die Packung;the pack;-1;FALSE;FALSE;FALSE
+die Panne;the breakdown;3;FALSE;FALSE;FALSE
+die Pflanze;the plant;2;FALSE;FALSE;FALSE
+die Regel;the rule;-1;FALSE;FALSE;FALSE
+die Regierung;the government;-2;FALSE;FALSE;TRUE
+die Reise;the travel;2;TRUE;FALSE;TRUE
+die Religion;the religion;4;FALSE;FALSE;FALSE
+die Richtung;the direction;-3;FALSE;FALSE;FALSE
+die Sache;the thing;0;FALSE;FALSE;FALSE
+die Sauce;the sauce;0;FALSE;FALSE;FALSE
+die Scherbe;the shard;-1;FALSE;FALSE;TRUE
+die Schokolade;the chocolate;5;FALSE;TRUE;FALSE
+die Schwester;the sister;5;FALSE;TRUE;FALSE
+die Socke;the sock;4;FALSE;FALSE;FALSE
+die Speisekarte;the menu;3;FALSE;FALSE;FALSE
+die Spezialität;the specialty;3;FALSE;FALSE;FALSE
+die Spinne;the spider;4;FALSE;FALSE;FALSE
+die Sprache;the language;2;FALSE;FALSE;FALSE
+die Stadt;the city;3;FALSE;FALSE;FALSE
+die Strasse;the street;2;FALSE;FALSE;FALSE
+die Strumpfhose;the hoose;5;FALSE;TRUE;FALSE
+die Suppe;the soup;5;FALSE;TRUE;FALSE
+die Tasche;the bag;-1;FALSE;FALSE;FALSE
+die Tiefe;the depth;0;FALSE;FALSE;FALSE
+die Tochter;the daughter;1;FALSE;FALSE;FALSE
+die Tomate;the tomato;5;FALSE;TRUE;FALSE
+die Tür;the door;5;FALSE;TRUE;FALSE
+die Übertreibung;the exaggeration;-3;TRUE;FALSE;TRUE
+die Vergangenheit;the past;0;FALSE;FALSE;FALSE
+die Vergleich;the comparison;-3;FALSE;FALSE;FALSE
+die Verletzung;the injury;-6;FALSE;FALSE;FALSE
+die Verneinung;the negation;-5;FALSE;FALSE;FALSE
+die Verpackung;the packaging;-1;TRUE;FALSE;TRUE
+die Verzweiflung;the despair;-2;FALSE;FALSE;TRUE
+die Wahrheit;the truth;-1;FALSE;FALSE;FALSE
+die Wissenschaftler;the scientist;4;FALSE;FALSE;FALSE
+die Woche;the week;1;FALSE;FALSE;FALSE
+die Wohnung;the flat;3;FALSE;FALSE;FALSE
+die Zahl;the number;5;FALSE;TRUE;FALSE
+die Zeit;the time;5;FALSE;TRUE;FALSE
+die Zeitung;the newspaper;5;FALSE;TRUE;FALSE
+die Zukunft;the future;0;FALSE;FALSE;FALSE
+die Zusammenkunft;the meeting;-2;FALSE;FALSE;FALSE
+Dienstag;Tuesday;5;FALSE;TRUE;FALSE
+Donnerstag;Thursday;5;FALSE;TRUE;FALSE
+draussen;outside;2;FALSE;FALSE;FALSE
+dunkel;dark;-1;FALSE;FALSE;FALSE
+durst;thirsty;5;FALSE;TRUE;FALSE
+ein bisschen;a bit;2;TRUE;FALSE;TRUE
+einfach;easy;-1;FALSE;FALSE;FALSE
+einmal;once;5;FALSE;TRUE;FALSE
+eins nach dem anderen;one by one;-1;FALSE;FALSE;TRUE
+emotional;emotional;0;FALSE;FALSE;FALSE
+Englisch;English;5;FALSE;TRUE;FALSE
+entfernen;to remove;-4;FALSE;FALSE;TRUE
+entscheiden;to decide;-3;FALSE;FALSE;TRUE
+entschuldigung;excuse-me;5;FALSE;TRUE;FALSE
+erklären;to explain;0;FALSE;FALSE;FALSE
+erste;first;5;FALSE;TRUE;FALSE
+erstellen;to draw up;-1;FALSE;FALSE;TRUE
+es tut mir leid;I'm sorry;5;FALSE;TRUE;FALSE
+essen;to eat;5;FALSE;TRUE;FALSE
+ewig;eternally;-1;FALSE;FALSE;TRUE
+fahren;to drive;0;FALSE;FALSE;FALSE
+fälligkeit;due date;4;FALSE;FALSE;FALSE
+falls;in case;-1;FALSE;FALSE;FALSE
+falsch;wrong;5;FALSE;TRUE;FALSE
+fantastisch;fantastic;5;FALSE;TRUE;FALSE
+fast;almost;-2;FALSE;FALSE;TRUE
+faszinierend;fascinating;4;FALSE;FALSE;FALSE
+Februar;February;1;TRUE;FALSE;TRUE
+fertig;ready;5;FALSE;TRUE;FALSE
+fett;fat;-1;FALSE;FALSE;FALSE
+finden;to find;4;FALSE;FALSE;FALSE
+flexibel;flexible;1;FALSE;FALSE;FALSE
+folgen;to follow;-1;FALSE;FALSE;FALSE
+fortsetzen;to continue;0;TRUE;FALSE;TRUE
+fragen;to ask;1;TRUE;FALSE;TRUE
+Französisch;French;3;FALSE;FALSE;FALSE
+frei;free;5;FALSE;TRUE;FALSE
+Freitag;Friday;5;FALSE;TRUE;FALSE
+fressen;to eat (animal);5;FALSE;TRUE;FALSE
+freuen;to be looking forward;-1;FALSE;FALSE;TRUE
+frisch;fresh;2;FALSE;FALSE;FALSE
+fügen;to add;2;FALSE;FALSE;FALSE
+fühlen;to feel;0;FALSE;FALSE;FALSE
+ganz;entirely;1;FALSE;FALSE;FALSE
+gar;at all;0;FALSE;FALSE;FALSE
+geben;to give;5;FALSE;TRUE;FALSE
+gehen;to go;5;FALSE;TRUE;FALSE
+gelb;yellow;3;FALSE;FALSE;FALSE
+genau;I agree;5;FALSE;TRUE;FALSE
+gerade;just;2;FALSE;FALSE;FALSE
+gern geschehen;you are welcome;0;FALSE;FALSE;FALSE
+gerne;gladly;0;FALSE;FALSE;FALSE
+geschieden;divorced;5;FALSE;TRUE;FALSE
+gesund;healthy;3;FALSE;FALSE;FALSE
+gewinnen;to win;2;FALSE;FALSE;FALSE
+glauben;to believe;5;FALSE;TRUE;FALSE
+gleich;equal;0;FALSE;FALSE;FALSE
+glücklich;happy;-2;FALSE;FALSE;FALSE
+golden;golden;5;FALSE;TRUE;FALSE
+gratis;free (money);2;TRUE;FALSE;TRUE
+grau;grey;5;FALSE;TRUE;FALSE
+gross;big;5;FALSE;TRUE;FALSE
+grossartig;great;0;FALSE;FALSE;FALSE
+grün;green;4;FALSE;FALSE;FALSE
+günstig;favorable;1;FALSE;FALSE;FALSE
+gut;good;5;FALSE;TRUE;FALSE
+Gute Nacht;good night;5;FALSE;TRUE;FALSE
+Guten Abend;good evening;5;FALSE;TRUE;FALSE
+Guten Morgen;good morning;5;FALSE;TRUE;FALSE
+Guten Tag;good day;5;FALSE;TRUE;FALSE
+haben;to have;5;FALSE;TRUE;FALSE
+hallo;hello;4;FALSE;FALSE;FALSE
+hässlich;ugly;5;FALSE;TRUE;FALSE
+heissen;to be named;5;FALSE;TRUE;FALSE
+hell;bright;0;FALSE;FALSE;TRUE
+herausfinden;to find out;-1;FALSE;FALSE;FALSE
+herum;around;2;FALSE;FALSE;FALSE
+heute;today;5;FALSE;TRUE;FALSE
+Hilfe;help;2;FALSE;FALSE;FALSE
+hoch;up;5;FALSE;TRUE;FALSE
+hören;to listen;5;FALSE;TRUE;FALSE
+hübsch;pretty;2;FALSE;FALSE;FALSE
+hunger;hungry;5;FALSE;TRUE;FALSE
+insbesondere;especially;-1;FALSE;FALSE;TRUE
+interessant;interesting;5;FALSE;TRUE;FALSE
+interessiert;interested;-1;FALSE;FALSE;TRUE
+irgendwie;somehow;-1;FALSE;FALSE;TRUE
+ja;yes;4;FALSE;FALSE;FALSE
+Januar;January;0;FALSE;FALSE;FALSE
+jede;each;2;FALSE;FALSE;FALSE
+jemand;someone;0;FALSE;FALSE;FALSE
+jetzt;now;5;FALSE;TRUE;FALSE
+Juli;July;0;FALSE;FALSE;FALSE
+Juni;June;2;FALSE;FALSE;FALSE
+kalt;cold;4;FALSE;FALSE;FALSE
+kämpfen;to fight;1;TRUE;FALSE;TRUE
+Kanada;Canada;3;FALSE;FALSE;FALSE
+Kapiert?;Geddit?;-1;FALSE;FALSE;TRUE
+keine Ahnung;no idea;1;TRUE;FALSE;TRUE
+kennen;to know;5;FALSE;TRUE;FALSE
+klar;clear;5;FALSE;TRUE;FALSE
+klein;little;5;FALSE;TRUE;FALSE
+knipsen;to push;3;FALSE;FALSE;FALSE
+kommen;to come;5;FALSE;TRUE;FALSE
+korrigieren;to correct;1;TRUE;FALSE;TRUE
+kosten;to cost;3;TRUE;FALSE;TRUE
+kurz;short;5;FALSE;TRUE;FALSE
+lang;long;5;FALSE;TRUE;FALSE
+langsam;slow;5;FALSE;TRUE;FALSE
+laufen;to walk;5;TRUE;TRUE;TRUE
+laut;loud;-2;FALSE;FALSE;FALSE
+lecker;delicious;5;FALSE;TRUE;FALSE
+ledig;single;5;FALSE;TRUE;FALSE
+leer;empty;5;FALSE;TRUE;FALSE
+legen;to place;0;FALSE;FALSE;FALSE
+leicht;light;5;FALSE;TRUE;FALSE
+leider;unfortunately;5;FALSE;TRUE;FALSE
+leihen;to borrow;0;FALSE;FALSE;FALSE
+leise;discrete;-1;FALSE;FALSE;FALSE
+lernen;to learn;5;FALSE;TRUE;FALSE
+lesen;to read;5;FALSE;TRUE;FALSE
+letzte;last;1;FALSE;FALSE;FALSE
+lieben;to love;3;FALSE;FALSE;FALSE
+liebste;favorite;-1;FALSE;FALSE;FALSE
+lügen;to lie;-2;TRUE;FALSE;TRUE
+lustig;funny;4;TRUE;FALSE;TRUE
+mag;like;5;FALSE;TRUE;FALSE
+Mai;May;1;FALSE;FALSE;FALSE
+manchmal;sometimes;0;TRUE;FALSE;TRUE
+März;March;-1;FALSE;FALSE;FALSE
+mehrere;several;5;FALSE;TRUE;FALSE
+meinen;to mean;0;FALSE;FALSE;FALSE
+meiste;most;0;FALSE;FALSE;FALSE
+messen;to measure;0;FALSE;FALSE;FALSE
+mitnehmen;to take along;-1;FALSE;FALSE;FALSE
+mitteilen;to inform;0;FALSE;FALSE;FALSE
+Mittwoch;Wednesday;5;FALSE;TRUE;FALSE
+modern;modern;1;FALSE;FALSE;FALSE
+Montag;Monday;5;FALSE;TRUE;FALSE
+müde;tired;5;FALSE;TRUE;FALSE
+nahe;near;0;TRUE;FALSE;TRUE
+nähen;to sew;-1;FALSE;FALSE;FALSE
+neben;nearby;1;FALSE;FALSE;FALSE
+nehmen;to take;0;TRUE;FALSE;TRUE
+nein;no;5;FALSE;TRUE;FALSE
+neu;new;4;TRUE;FALSE;TRUE
+noch;again;3;FALSE;FALSE;FALSE
+normal;normal;5;FALSE;TRUE;FALSE
+November;November;1;FALSE;FALSE;FALSE
+Nun!;Well!;0;TRUE;FALSE;TRUE
+ob;whether;0;FALSE;FALSE;FALSE
+oben;above;0;FALSE;FALSE;FALSE
+oft;often;2;TRUE;FALSE;TRUE
+Oktober;October;1;FALSE;FALSE;FALSE
+orange;orange;5;FALSE;TRUE;FALSE
+passen;to go well;2;TRUE;FALSE;TRUE
+passieren;to happen;0;FALSE;FALSE;FALSE
+perfekt;perfect;3;FALSE;FALSE;FALSE
+pikant;spicy;5;FALSE;TRUE;FALSE
+praktisch;practical;0;TRUE;FALSE;TRUE
+prima;fine;5;TRUE;TRUE;TRUE
+rauchen;to smoke;-2;FALSE;FALSE;TRUE
+reichen;to be sufficient;-5;FALSE;FALSE;FALSE
+reisen;to travel;0;FALSE;FALSE;FALSE
+reissen;to tear;-1;FALSE;FALSE;FALSE
+rennen;to run;5;FALSE;TRUE;FALSE
+reservieren;to reserve;2;FALSE;FALSE;FALSE
+richtig;correct;5;FALSE;TRUE;FALSE
+riesig;huge;0;FALSE;FALSE;FALSE
+rosa;pink;1;FALSE;FALSE;FALSE
+rot;red;5;FALSE;TRUE;FALSE
+ruhig;quiet;2;TRUE;FALSE;TRUE
+rund;round;5;FALSE;TRUE;FALSE
+sagen;to say;5;FALSE;TRUE;FALSE
+Samstag;Saturday;4;FALSE;FALSE;FALSE
+sauber;clean;5;TRUE;TRUE;TRUE
+schade;too bad;4;FALSE;FALSE;FALSE
+scheinbar;seemingly;-1;FALSE;FALSE;FALSE
+schlafen;to sleep;5;FALSE;TRUE;FALSE
+schlecht;bad;-1;FALSE;FALSE;FALSE
+schmecken;to taste;0;FALSE;FALSE;FALSE
+schmutzig;dirty;-5;FALSE;FALSE;FALSE
+schnell;fast;5;FALSE;TRUE;FALSE
+schon;already;4;FALSE;FALSE;FALSE
+schön;nice;3;FALSE;FALSE;TRUE
+schreiben;to write;1;TRUE;FALSE;TRUE
+schwach;weak;-6;TRUE;FALSE;TRUE
+schwarz;black;5;FALSE;TRUE;FALSE
+schwer;hard;-3;TRUE;FALSE;TRUE
+schwierig;difficult;-4;FALSE;FALSE;TRUE
+schwimmen;to swim;5;FALSE;TRUE;FALSE
+schwul;gay lovers;5;TRUE;TRUE;TRUE
+schwül;humide;4;TRUE;FALSE;TRUE
+sehen;to see;5;FALSE;TRUE;FALSE
+sein;to be;5;FALSE;TRUE;FALSE
+seltsam;strange;-1;FALSE;FALSE;FALSE
+September;September;2;TRUE;FALSE;TRUE
+sitzen;to sit;0;FALSE;FALSE;FALSE
+sofort;immediately;-1;FALSE;FALSE;TRUE
+Sonntag;Sunday;5;FALSE;TRUE;FALSE
+sonst;otherwise;-1;FALSE;FALSE;FALSE
+sortieren;to sort;3;TRUE;FALSE;TRUE
+spät;late;-1;FALSE;FALSE;FALSE
+spielen;to play;5;FALSE;TRUE;FALSE
+sprechen;to speak;5;FALSE;TRUE;FALSE
+stark;strong;5;FALSE;TRUE;FALSE
+stehen;to stand up;5;FALSE;TRUE;FALSE
+stellen;to put;0;TRUE;FALSE;TRUE
+stornieren;to cancel;0;FALSE;FALSE;FALSE
+studieren;to study;5;FALSE;TRUE;FALSE
+suchen;to search;1;FALSE;FALSE;FALSE
+süss;sweet;5;FALSE;TRUE;FALSE
+tausend;thousand;5;FALSE;TRUE;FALSE
+teilen;to share;0;FALSE;FALSE;FALSE
+telefonieren;to phone;4;FALSE;FALSE;FALSE
+teuer;expensive;5;FALSE;TRUE;FALSE
+tief;deep;-2;FALSE;FALSE;FALSE
+toll;formidable;5;FALSE;TRUE;FALSE
+tragen;to wear;5;FALSE;TRUE;FALSE
+traurig;sad;-1;FALSE;FALSE;FALSE
+treffen;to meet;-2;FALSE;FALSE;FALSE
+trinken;to drink;5;FALSE;TRUE;FALSE
+tschüss;bye;5;FALSE;TRUE;FALSE
+überall;everywhere;5;FALSE;TRUE;FALSE
+umkämpfen;to beat;1;FALSE;FALSE;TRUE
+und;and;5;FALSE;TRUE;FALSE
+unpraktisch;impractical;-1;FALSE;FALSE;FALSE
+unsere;our;2;FALSE;FALSE;FALSE
+unten;below;0;FALSE;FALSE;FALSE
+unterrichten;to teach;2;FALSE;FALSE;FALSE
+unterwegs;on the road;0;FALSE;FALSE;FALSE
+vegetarier;vegetarian;5;FALSE;TRUE;FALSE
+verbrauchen;to consume;0;FALSE;FALSE;FALSE
+verdammt;damn;-1;FALSE;FALSE;TRUE
+verdienen;to earn;-1;FALSE;FALSE;FALSE
+vergessen;to forget;0;FALSE;FALSE;FALSE
+verheiratet;married;5;FALSE;TRUE;FALSE
+verlobt;engaged;-1;TRUE;FALSE;TRUE
+verrückt;mad;-1;FALSE;FALSE;FALSE
+verstehen;to understand;4;TRUE;FALSE;TRUE
+verwenden;to use;-2;FALSE;FALSE;TRUE
+verzeihen;to forgive;-1;FALSE;FALSE;FALSE
+viel;a lot;2;TRUE;FALSE;TRUE
+vielleicht;maybe;5;FALSE;TRUE;FALSE
+von oben;from above;-1;FALSE;FALSE;FALSE
+warm;warm;5;FALSE;TRUE;FALSE
+warum;why;5;FALSE;TRUE;FALSE
+Was machst du beruflich?;What is your work?;5;FALSE;TRUE;FALSE
+waschen;to wash;5;FALSE;TRUE;FALSE
+wegbringen;to bring away;-1;FALSE;FALSE;FALSE
+wegen;because of;-1;FALSE;FALSE;TRUE
+weil;because;5;FALSE;TRUE;FALSE
+weiss;white;5;FALSE;TRUE;FALSE
+weit;far;-4;TRUE;FALSE;TRUE
+weiter so;keep it up;-2;FALSE;FALSE;TRUE
+weiterführen;to pursue;0;FALSE;FALSE;FALSE
+welche;which;3;FALSE;FALSE;FALSE
+wem;who;0;FALSE;FALSE;FALSE
+weniger;fewer;-1;FALSE;FALSE;FALSE
+werfen;to throw;0;FALSE;FALSE;FALSE
+wichtig;important;1;TRUE;FALSE;TRUE
+wie geht es dir?;how are you?;5;FALSE;TRUE;FALSE
+wieder;another time;-5;FALSE;FALSE;FALSE
+wild;wild;1;FALSE;FALSE;FALSE
+wilkommen;welcome;5;FALSE;TRUE;FALSE
+wirklich;really;5;FALSE;TRUE;FALSE
+wissen;to realize;1;FALSE;FALSE;FALSE
+wo;where;5;FALSE;TRUE;FALSE
+wohnen;to live;3;FALSE;FALSE;FALSE
+zeigen;to show;1;FALSE;FALSE;FALSE
+zögern;to hesitate;-2;FALSE;FALSE;FALSE
+zu Hause;at home;-2;FALSE;FALSE;TRUE
+zurück;back;-1;FALSE;FALSE;FALSE
+zurzeit;for now;3;FALSE;FALSE;FALSE
+zusammen;together;5;FALSE;TRUE;FALSE
+zweite;second;5;FALSE;TRUE;FALSE
+zwischen;between;-1;FALSE;FALSE;FALSE

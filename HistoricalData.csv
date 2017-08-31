@@ -1,0 +1,316 @@
+"time";"germanWord";"englishWord";"scoreBefore";"languageAsked";"result"
+"2017-08-09 20:29:04";"letzte";"last";0;"English";TRUE
+"2017-08-09 20:29:07";"der Kühlschrank";"the fridge";3;"English";TRUE
+"2017-08-09 20:29:11";"der Bruder";"the brother";4;"English";TRUE
+"2017-08-09 20:30:17";"die Verpackung";"the packaging";-3;"English";TRUE
+"2017-08-09 20:30:24";"aufreissen";"to tear open";0;"English";FALSE
+"2017-08-09 20:30:34";"besprechen";"to discuss";0;"German";FALSE
+"2017-08-14 23:03:15";"auch";"also";0;"English";FALSE
+"2017-08-14 23:03:25";"frisch";"fresh";3;"English";FALSE
+"2017-08-14 23:03:33";"der Brand";"the fire";2;"English";TRUE
+"2017-08-14 23:03:47";"die Flexion";"the inflection";0;"English";FALSE
+"2017-08-14 23:04:00";"die Meeresfrucht";"the sea food";2;"English";TRUE
+"2017-08-14 23:04:11";"der Teil";"the part";0;"English";FALSE
+"2017-08-14 23:04:14";"das Auge";"the eye";1;"English";TRUE
+"2017-08-14 23:04:24";"zurzeit";"for now";4;"English";FALSE
+"2017-08-14 23:04:31";"die Garantie";"the guarantee";0;"English";FALSE
+"2017-08-14 23:04:40";"mitnehmen";"to take along";0;"German";FALSE
+"2017-08-14 23:06:07";"fett";"fat";0;"English";FALSE
+"2017-08-14 23:06:10";"die Lampe";"the lamp";4;"English";TRUE
+"2017-08-14 23:06:17";"bleiben";"to remain";0;"German";FALSE
+"2017-08-14 23:06:30";"der Krieg";"the war";3;"German";FALSE
+"2017-08-14 23:06:33";"die Tasche";"the bag";-2;"German";TRUE
+"2017-08-14 23:06:46";"die Identität";"the identity";1;"German";FALSE
+"2017-08-14 23:07:25";"arbeitlos";"unemployed";4;"English";FALSE
+"2017-08-14 23:07:34";"der Maler";"the painter";2;"German";FALSE
+"2017-08-14 23:07:45";"das Getränk";"the drink";1;"English";FALSE
+"2017-08-14 23:07:54";"der Mund";"the mouth";1;"German";FALSE
+"2017-08-14 23:07:58";"ein bisschen";"a bit";0;"German";TRUE
+"2017-08-14 23:09:03";"der Standort";"the location";-1;"English";FALSE
+"2017-08-14 23:09:09";"waschen";"to wash";4;"German";TRUE
+"2017-08-14 23:09:18";"das Fach";"the compartment";0;"German";FALSE
+"2017-08-14 23:13:24";"keine Ahnung";"no idea";0;"German";FALSE
+"2017-08-14 23:13:27";"brauchen";"to need";1;"English";TRUE
+"2017-08-14 23:13:31";"der Saft";"the juice";-3;"German";TRUE
+"2017-08-14 23:13:34";"suchen";"to search";0;"German";TRUE
+"2017-08-14 23:13:55";"damit";"in order to";0;"German";FALSE
+"2017-08-14 23:13:58";"das Buch";"the book";0;"English";TRUE
+"2017-08-14 23:14:10";"das Abkommen";"the agreement";-2;"English";FALSE
+"2017-08-14 23:14:17";"Mai";"May";1;"German";FALSE
+"2017-08-14 23:14:27";"der Ecke";"the corner";0;"English";FALSE
+"2017-08-14 23:14:31";"oft";"often";0;"English";TRUE
+"2017-08-14 23:14:35";"richtig";"correct";4;"German";TRUE
+"2017-08-14 23:14:38";"Mai";"May";0;"English";TRUE
+"2017-08-14 23:14:44";"hübsch";"pretty";1;"German";TRUE
+"2017-08-14 23:14:48";"sortieren";"to sort";1;"German";TRUE
+"2017-08-14 23:14:51";"August";"August";0;"English";TRUE
+"2017-08-14 23:14:59";"flexibel";"flexible";0;"English";TRUE
+"2017-08-14 23:19:13";"finden";"to find";3;"English";TRUE
+"2017-08-14 23:19:23";"schwach";"weak";-6;"German";FALSE
+"2017-08-14 23:19:32";"der Standort";"the location";-2;"German";FALSE
+"2017-08-14 23:19:45";"der Konflikt";"the conflict";-1;"German";FALSE
+"2017-08-14 23:19:50";"die Krankheit";"the disease";-1;"English";TRUE
+"2017-08-14 23:19:57";"stellen";"to put";0;"German";FALSE
+"2017-08-14 23:21:50";"die Folgerung";"the consequence";-1;"English";FALSE
+"2017-08-14 23:22:02";"manchmal";"sometimes";0;"German";FALSE
+"2017-08-14 23:22:23";"die Sprache";"the language";1;"English";TRUE
+"2017-08-14 23:22:32";"das Hemd";"the shirt";-2;"English";FALSE
+"2017-08-14 23:22:44";"der Bär";"the bear";1;"German";FALSE
+"2017-08-14 23:22:46";"die Nase";"the nose";0;"English";TRUE
+"2017-08-14 23:22:51";"telefonieren";"to phone";3;"English";TRUE
+"2017-08-14 23:22:55";"der Kollege";"the colleague";0;"German";TRUE
+"2017-08-14 23:23:04";"reissen";"to tear";0;"English";FALSE
+"2017-08-14 23:23:24";"der Verleih";"the rental shop";0;"German";FALSE
+"2017-08-14 23:23:29";"anmachen";"to light";2;"German";TRUE
+"2017-08-14 23:24:46";"aufreissen";"to tear open";-1;"English";FALSE
+"2017-08-14 23:24:53";"keine Ahnung";"no idea";-1;"German";TRUE
+"2017-08-14 23:25:06";"unterrichten";"to teach";2;"English";FALSE
+"2017-08-14 23:26:22";"der Tee";"the tea";4;"German";TRUE
+"2017-08-14 23:26:26";"schön";"nice";3;"German";TRUE
+"2017-08-14 23:26:30";"das Wetter";"the weather";3;"English";TRUE
+"2017-08-14 23:26:38";"der Wert";"the value";0;"German";FALSE
+"2017-08-14 23:26:46";"darauf";"thereon";0;"English";FALSE
+"2017-08-14 23:26:56";"die Geschwister";"the siblings";2;"German";FALSE
+"2017-08-14 23:27:15";"wo";"where";4;"German";TRUE
+"2017-08-14 23:27:29";"die Aufmerksamkeit";"the attention";-3;"German";FALSE
+"2017-08-14 23:27:33";"fühlen";"to feel";-1;"German";TRUE
+"2017-08-14 23:27:37";"unterrichten";"to teach";1;"English";TRUE
+"2017-08-14 23:27:49";"der Wahnsinn";"the madness";0;"German";FALSE
+"2017-08-14 23:27:59";"der Grad";"the degree";0;"English";FALSE
+"2017-08-14 23:29:17";"die Verneinung";"the negation";-4;"English";FALSE
+"2017-08-14 23:29:23";"bringen";"to bring";2;"German";FALSE
+"2017-08-14 23:29:27";"das Organ";"the organ";4;"German";TRUE
+"2017-08-14 23:29:33";"laut";"loud";-1;"German";FALSE
+"2017-08-14 23:29:41";"die Packung";"the pack";0;"German";FALSE
+"2017-08-14 23:29:45";"das Wort";"the word";4;"English";TRUE
+"2017-08-14 23:29:48";"der Teller";"the plate";0;"German";TRUE
+"2017-08-14 23:30:28";"die Mitteilung";"the information";-3;"English";FALSE
+"2017-08-14 23:30:34";"die Grosseltern";"the grand-parents";2;"German";TRUE
+"2017-08-14 23:30:47";"das Einkommen";"the income";-1;"English";FALSE
+"2017-08-14 23:30:54";"davon";"thereof";0;"English";FALSE
+"2017-08-14 23:30:57";"der Wein";"the wine";4;"English";TRUE
+"2017-08-14 23:31:01";"die Generation";"the generation";2;"English";TRUE
+"2017-08-14 23:31:14";"die Speisekarte";"the menu";4;"German";FALSE
+"2017-08-14 23:32:23";"falls";"in case";0;"German";FALSE
+"2017-08-14 23:32:37";"unpraktisch";"impractical";0;"German";FALSE
+"2017-08-14 23:32:47";"der Würfel";"the dice";1;"German";FALSE
+"2017-08-14 23:32:54";"spät";"late";0;"German";FALSE
+"2017-08-14 23:32:58";"November";"November";0;"English";TRUE
+"2017-08-14 23:33:08";"die Verzweiflung";"the despair";0;"German";FALSE
+"2017-08-14 23:33:41";"liebste";"favorite";0;"German";FALSE
+"2017-08-14 23:33:51";"die Malerei";"the painting";0;"English";FALSE
+"2017-08-14 23:33:54";"die Nudel";"the pasta";2;"English";TRUE
+"2017-08-14 23:34:08";"das Herz";"the heart";0;"German";FALSE
+"2017-08-14 23:34:21";"der Beruf";"the profession";-3;"German";FALSE
+"2017-08-14 23:34:24";"das Radio";"the radio";1;"German";TRUE
+"2017-08-14 23:34:34";"besprechen";"to discuss";-1;"German";FALSE
+"2017-08-14 23:34:37";"das Bier";"the beer";4;"English";TRUE
+"2017-08-14 23:34:41";"der Grad";"the degree";-1;"German";TRUE
+"2017-08-14 23:35:46";"das Geschäft";"the shop";-4;"German";FALSE
+"2017-08-14 23:35:55";"das Theater";"the theater";0;"German";FALSE
+"2017-08-14 23:35:59";"das Tier";"the animal";4;"English";TRUE
+"2017-08-14 23:36:01";"auch";"also";-1;"German";TRUE
+"2017-08-14 23:36:11";"folgen";"to follow";0;"German";FALSE
+"2017-08-14 23:36:17";"der Rock";"the skirt";3;"German";TRUE
+"2017-08-14 23:36:21";"der Vater";"the father";4;"German";TRUE
+"2017-08-14 23:37:07";"die Heizung";"the heater";-4;"English";FALSE
+"2017-08-14 23:37:17";"entscheiden";"to decide";0;"English";FALSE
+"2017-08-14 23:37:27";"Nun!";"Well!";0;"English";FALSE
+"2017-08-14 23:37:32";"die Heizung";"the heater";-5;"English";TRUE
+"2017-08-14 23:37:34";"Juni";"June";1;"English";TRUE
+"2017-08-14 23:37:37";"das Verb";"the verb";3;"English";TRUE
+"2017-08-14 23:38:03";"herausfinden";"to find out";0;"English";FALSE
+"2017-08-14 23:38:08";"die Ärztin";"the female doctor";3;"English";TRUE
+"2017-08-14 23:38:13";"der Standort";"the location";-3;"German";TRUE
+"2017-08-14 23:38:16";"der Küchenchef";"the cook";1;"English";TRUE
+"2017-08-14 23:38:28";"von oben";"from above";0;"English";FALSE
+"2017-08-14 23:38:39";"schwül";"humide";4;"English";FALSE
+"2017-08-14 23:38:50";"rauchen";"to smoke";0;"English";FALSE
+"2017-08-14 23:38:53";"die Idee";"the idea";2;"English";TRUE
+"2017-08-14 23:39:57";"schmutzig";"dirty";-4;"German";FALSE
+"2017-08-14 23:40:06";"April";"April";0;"German";FALSE
+"2017-08-14 23:40:10";"der Charakter";"the character";-2;"English";TRUE
+"2017-08-14 23:41:17";"die Literatur";"the literature";2;"German";FALSE
+"2017-08-14 23:43:13";"verdienen";"to earn";0;"German";FALSE
+"2017-08-14 23:43:23";"der Mieter";"the tenant";-2;"German";FALSE
+"2017-08-14 23:43:30";"die Ausnahme";"the exception";1;"German";FALSE
+"2017-08-14 23:44:12";"das Glied";"the limb";-2;"English";FALSE
+"2017-08-14 23:44:17";"die Küche";"the kitchen";3;"English";TRUE
+"2017-08-14 23:44:36";"die Landwirtschaft";"the agriculture";-1;"German";FALSE
+"2017-08-14 23:45:27";"schade";"too bad";3;"German";TRUE
+"2017-08-14 23:45:32";"deklinieren";"to decline";0;"English";TRUE
+"2017-08-14 23:46:10";"die Entfernung";"the distance";-1;"German";FALSE
+"2017-08-14 23:46:17";"sonst";"otherwise";0;"German";FALSE
+"2017-08-14 23:46:30";"die Bejahung";"the affirmation";-4;"German";FALSE
+"2017-08-14 23:46:39";"die Vergleich";"the comparison";-2;"German";FALSE
+"2017-08-14 23:46:51";"wegbringen";"to bring away";0;"German";FALSE
+"2017-08-14 23:46:54";"traurig";"sad";-2;"English";TRUE
+"2017-08-14 23:48:38";"weiter so";"keep it up";0;"English";FALSE
+"2017-08-14 23:48:42";"der Unfall";"the accident";0;"English";TRUE
+"2017-08-14 23:48:52";"März";"March";0;"German";FALSE
+"2017-08-14 23:49:03";"die Reise";"the travel";2;"English";FALSE
+"2017-08-14 23:49:11";"der Raum";"the space";-3;"German";FALSE
+"2017-08-14 23:49:18";"das Camping";"the camping";0;"English";TRUE
+"2017-08-14 23:49:32";"das Mitglied";"the member";0;"English";TRUE
+"2017-08-14 23:50:36";"die Übertreibung";"the exaggeration";-3;"German";FALSE
+"2017-08-14 23:50:45";"seltsam";"strange";0;"English";FALSE
+"2017-08-14 23:50:57";"entscheiden";"to decide";-1;"German";FALSE
+"2017-08-14 23:51:11";"das Fach";"the compartment";-1;"English";FALSE
+"2017-08-14 23:52:53";"der Bruch";"the facture";0;"German";FALSE
+"2017-08-15 00:08:10";"die Spinne";"the spider";3;"German";TRUE
+"2017-08-15 06:51:23";"der Geist";"the gosht";-2;"German";TRUE
+"2017-08-15 06:51:47";"die Kirche";"the church";4;"English";TRUE
+"2017-08-15 06:51:53";"neu";"new";4;"German";FALSE
+"2017-08-15 06:51:56";"viel";"a lot";1;"German";TRUE
+"2017-08-15 06:51:59";"der Vogel";"the bird";4;"English";TRUE
+"2017-08-15 06:52:02";"das Hemd";"the shirt";-3;"English";TRUE
+"2017-08-15 06:52:13";"das Einkommen";"the income";-2;"German";FALSE
+"2017-08-15 06:52:22";"verlobt";"engaged";-1;"German";FALSE
+"2017-08-15 06:52:33";"die Übertreibung";"the exaggeration";-4;"English";TRUE
+"2017-08-15 06:52:55";"besprechen";"to discuss";-2;"German";TRUE
+"2017-08-15 06:52:58";"der Tag";"the day";2;"English";TRUE
+"2017-08-15 06:53:12";"umkämpfen";"to beat";2;"German";FALSE
+"2017-08-15 06:53:20";"keine Ahnung";"no idea";0;"English";TRUE
+"2017-08-15 06:54:30";"der Himmel";"the sky";1;"English";FALSE
+"2017-08-15 06:54:34";"die Diskussion";"the discussion";2;"English";TRUE
+"2017-08-15 06:54:44";"die Folgerung";"the consequence";-2;"German";FALSE
+"2017-08-15 06:54:48";"die Folgerung";"the consequence";-3;"English";TRUE
+"2017-08-15 06:54:57";"die Menge";"the amount";-1;"English";FALSE
+"2017-08-15 06:55:10";"schwierig";"difficult";-3;"English";FALSE
+"2017-08-15 06:55:13";"das Camping";"the camping";1;"English";TRUE
+"2017-08-15 06:55:17";"passen";"to go well";1;"German";TRUE
+"2017-08-15 06:55:20";"August";"August";1;"English";TRUE
+"2017-08-15 06:55:26";"das Fenster";"the window";-2;"English";TRUE
+"2017-08-15 06:55:34";"lustig";"funny";4;"German";FALSE
+"2017-08-15 06:56:02";"lügen";"to lie";-2;"German";FALSE
+"2017-08-15 06:56:20";"Kapiert?";"Geddit?";0;"German";FALSE
+"2017-08-15 06:56:32";"schwach";"weak";-7;"English";TRUE
+"2017-08-15 06:57:52";"freuen";"to be looking forward";0;"German";FALSE
+"2017-08-15 06:57:58";"stellen";"to put";-1;"German";TRUE
+"2017-08-15 06:58:11";"der Küchenchef";"the cook";2;"German";FALSE
+"2017-08-15 06:58:14";"der Kühlschrank";"the fridge";4;"English";TRUE
+"2017-08-15 06:58:21";"verlobt";"engaged";-2;"German";TRUE
+"2017-08-15 06:58:24";"oft";"often";1;"German";TRUE
+"2017-08-15 06:58:39";"die Regierung";"the government";-1;"German";FALSE
+"2017-08-15 06:59:11";"korrigieren";"to correct";0;"English";TRUE
+"2017-08-15 06:59:15";"die Frage";"the question";4;"English";TRUE
+"2017-08-15 06:59:35";"der Fernseher";"the television";0;"German";FALSE
+"2017-08-15 06:59:46";"kämpfen";"to fight";1;"English";FALSE
+"2017-08-15 07:00:02";"der Blumentopf";"the flowerpot";0;"English";FALSE
+"2017-08-15 07:00:07";"laufen";"to walk";4;"English";TRUE
+"2017-08-15 07:00:11";"nahe";"near";-1;"English";TRUE
+"2017-08-15 07:01:44";"die Verzweiflung";"the despair";-1;"English";FALSE
+"2017-08-15 07:01:51";"wegen";"because of";0;"German";FALSE
+"2017-08-15 07:01:56";"der Standort";"the location";-2;"German";TRUE
+"2017-08-15 07:01:59";"das Radio";"the radio";2;"English";TRUE
+"2017-08-15 07:02:23";"eins nach dem anderen";"one by one";0;"English";FALSE
+"2017-08-15 07:02:34";"Bekannte";"the friends";-2;"English";FALSE
+"2017-08-15 07:03:01";"das Kissen";"the pillow";0;"English";FALSE
+"2017-08-15 07:03:12";"darauf";"thereon";-1;"German";FALSE
+"2017-08-15 07:03:19";"der Frühling";"the spring";1;"German";TRUE
+"2017-08-15 07:03:29";"der Löffel";"the spoon";3;"German";FALSE
+"2017-08-15 07:03:33";"lügen";"to lie";-3;"English";TRUE
+"2017-08-15 07:05:04";"der Besitz";"the possession";-6;"English";FALSE
+"2017-08-15 07:05:13";"verdammt";"damn";0;"English";FALSE
+"2017-08-15 07:05:22";"der Gast";"the client";3;"German";FALSE
+"2017-08-15 07:05:24";"das Ende";"the end";0;"English";TRUE
+"2017-08-15 07:05:39";"die Scherbe";"the shard";0;"English";FALSE
+"2017-08-15 07:06:33";"weiter so";"keep it up";-1;"German";FALSE
+"2017-08-15 07:06:37";"nehmen";"to take";-1;"German";TRUE
+"2017-08-15 07:06:52";"die Identität";"the identity";0;"German";FALSE
+"2017-08-15 07:07:04";"insbesondere";"especially";0;"German";FALSE
+"2017-08-15 07:07:13";"der Veteran";"the veteran";2;"German";TRUE
+"2017-08-15 07:07:23";"die Meinung";"the opinion";0;"English";FALSE
+"2017-08-15 07:07:38";"das Beispiel";"the example";1;"German";FALSE
+"2017-08-15 07:09:19";"der Dreh";"the twist";0;"English";FALSE
+"2017-08-15 07:09:27";"daneben";"besides that";0;"German";FALSE
+"2017-08-15 07:09:31";"manchmal";"sometimes";-1;"English";TRUE
+"2017-08-15 07:09:42";"das Obst";"the fruit";4;"German";FALSE
+"2017-08-15 07:09:50";"der Mut";"the courage";-1;"German";FALSE
+"2017-08-15 07:10:07";"fortsetzen";"to continue";0;"German";FALSE
+"2017-08-15 07:10:25";"aufhören";"to stop";-1;"English";FALSE
+"2017-08-15 07:10:29";"auch";"also";0;"German";TRUE
+"2017-08-15 07:11:06";"der Verkäufer";"the seller";1;"German";FALSE
+"2017-08-15 07:11:17";"die Dose";"a can";0;"German";FALSE
+"2017-08-15 07:11:23";"das Ritual";"the ritual";0;"German";TRUE
+"2017-08-15 07:11:27";"der Kollege";"the colleague";1;"English";TRUE
+"2017-08-15 07:11:43";"der Täter";"the offender";3;"English";FALSE
+"2017-08-15 07:11:52";"die Musik";"the musique";0;"German";FALSE
+"2017-08-15 07:11:57";"praktisch";"practical";-1;"English";TRUE
+"2017-08-15 07:13:15";"verwenden";"to use";-1;"English";FALSE
+"2017-08-15 07:13:19";"braun";"brown";3;"English";TRUE
+"2017-08-15 07:13:25";"Februar";"February";0;"English";TRUE
+"2017-08-15 07:13:29";"der Saft";"the juice";-2;"German";TRUE
+"2017-08-15 07:13:32";"sauber";"clean";4;"English";TRUE
+"2017-08-15 07:13:36";"prima";"fine";4;"English";TRUE
+"2017-08-15 07:13:44";"die Verpackung";"the packaging";-2;"English";TRUE
+"2017-08-15 07:13:49";"die Blume";"the flower";3;"English";TRUE
+"2017-08-15 07:13:53";"das Ohr";"the ear";2;"English";TRUE
+"2017-08-15 07:13:57";"fragen";"to ask";0;"English";TRUE
+"2017-08-15 07:14:00";"die Reise";"the travel";1;"English";TRUE
+"2017-08-15 07:14:29";"ausgestorben";"extinct";0;"German";FALSE
+"2017-08-15 07:14:40";"der Polizei";"the police";1;"German";FALSE
+"2017-08-15 07:14:44";"schwül";"humide";3;"English";TRUE
+"2017-08-15 07:14:48";"September";"September";1;"English";TRUE
+"2017-08-15 07:14:52";"Nun!";"Well!";-1;"English";TRUE
+"2017-08-15 07:15:03";"erstellen";"to draw up";0;"German";FALSE
+"2017-08-15 07:16:34";"die Erläuterung";"the explication";0;"English";FALSE
+"2017-08-15 07:16:43";"zu Hause";"at home";-1;"German";FALSE
+"2017-08-15 07:16:47";"das Einkommen";"the income";-3;"English";TRUE
+"2017-08-15 07:16:51";"ein bisschen";"a bit";1;"English";TRUE
+"2017-08-15 07:17:04";"die Biene";"the bee";-1;"English";FALSE
+"2017-08-15 07:17:14";"rauchen";"to smoke";-1;"German";FALSE
+"2017-08-15 07:17:23";"entfernen";"to remove";-3;"English";FALSE
+"2017-08-15 07:17:32";"das Ereignis";"the event";-1;"English";FALSE
+"2017-08-15 07:19:48";"bleiben";"to remain";-1;"German";FALSE
+"2017-08-15 07:19:54";"die Ausnahme";"the exception";0;"German";TRUE
+"2017-08-15 07:20:07";"das Gewicht";"the weight";0;"English";FALSE
+"2017-08-15 07:20:26";"das Kissen";"the pillow";-1;"German";TRUE
+"2017-08-15 07:20:39";"die Entscheidung";"the decision";-6;"English";FALSE
+"2017-08-15 07:20:42";"kosten";"to cost";2;"German";TRUE
+"2017-08-15 07:20:53";"das Geheimnis";"the secret";-2;"German";FALSE
+"2017-08-15 07:20:56";"die Nudel";"the pasta";3;"English";TRUE
+"2017-08-15 07:21:06";"der Teil";"the part";-1;"German";FALSE
+"2017-08-15 07:21:14";"hell";"bright";1;"German";FALSE
+"2017-08-15 07:21:19";"verstehen";"to understand";3;"German";TRUE
+"2017-08-15 07:21:22";"das Jahr";"the year";3;"German";TRUE
+"2017-08-15 07:21:26";"schwul";"gay lovers";4;"German";TRUE
+"2017-08-15 07:22:56";"fortsetzen";"to continue";-1;"German";TRUE
+"2017-08-15 07:23:11";"interessiert";"interested";0;"English";FALSE
+"2017-08-15 07:23:15";"ruhig";"quiet";1;"German";TRUE
+"2017-08-15 07:26:14";"das Geschirr";"the dishes";-4;"English";FALSE
+"2017-08-15 07:26:16";"neu";"new";3;"German";TRUE
+"2017-08-15 07:26:26";"der Beweis";"the proof";-4;"German";FALSE
+"2017-08-15 07:26:29";"der Küchenchef";"the cook";1;"English";TRUE
+"2017-08-15 07:28:37";"der Wahnsinn";"the madness";-1;"English";FALSE
+"2017-08-15 07:28:40";"das Kleid";"the dress";4;"English";TRUE
+"2017-08-15 07:28:47";"anmachen";"to light";3;"German";TRUE
+"2017-08-15 07:28:51";"kämpfen";"to fight";0;"English";TRUE
+"2017-08-15 07:28:53";"weit";"far";-5;"German";TRUE
+"2017-08-15 07:28:57";"das Obst";"the fruit";3;"German";TRUE
+"2017-08-15 07:29:07";"sofort";"immediately";0;"English";FALSE
+"2017-08-15 07:29:11";"gratis";"free (money)";1;"German";TRUE
+"2017-08-15 07:34:05";"irgendwie";"somehow";0;"English";FALSE
+"2017-08-15 07:34:13";"ewig";"eternally";0;"English";FALSE
+"2017-08-15 07:34:24";"die Menge";"the amount";-2;"English";FALSE
+"2017-08-15 07:34:33";"schön";"nice";4;"English";FALSE
+"2017-08-15 07:34:36";"der Mut";"the courage";-2;"German";TRUE
+"2017-08-15 07:34:53";"der Nachmittag";"the afternoon";0;"German";FALSE
+"2017-08-15 07:34:57";"schwer";"hard";-4;"German";TRUE
+"2017-08-15 07:35:00";"schreiben";"to write";0;"English";TRUE
+"2017-08-15 07:35:04";"der Knopf";"the button";3;"English";TRUE
+"2017-08-15 07:35:08";"der Fluss";"the river";1;"English";TRUE
+"2017-08-15 07:35:12";"die Gesundheit";"the health";0;"German";TRUE
+"2017-08-15 07:35:48";"fast";"almost";-1;"German";FALSE
+"2017-08-15 07:35:52";"lustig";"funny";3;"German";TRUE
+"2017-08-15 07:36:05";"die Apotheke";"the pharmacy";2;"German";FALSE
+"2017-08-15 07:36:08";"das Bett";"the bed";1;"English";TRUE
+"2017-08-15 07:36:25";"das Töpfchen";"the potty";0;"English";FALSE
+"2017-08-15 07:36:39";"entscheiden";"to decide";-2;"German";FALSE
+"2017-08-15 07:36:44";"die Dose";"a can";-1;"English";TRUE
+"2017-08-15 07:38:08";"die Erkältung";"a cold";-1;"German";FALSE
+"2017-08-15 07:38:25";"die Ärztin";"the female doctor";4;"German";FALSE
+"2017-08-15 07:38:31";"wichtig";"important";0;"English";TRUE
+"2017-08-15 07:39:23";"sortieren";"to sort";2;"English";TRUE
+"2017-08-15 07:39:37";"die Musik";"the musique";-1;"German";FALSE
+"2017-08-15 07:39:48";"die Orange";"the orange";4;"German";FALSE
