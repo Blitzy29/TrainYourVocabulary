@@ -6,11 +6,11 @@ require(magrittr)
 dictionary <- fread('GermanEnglish.csv')
 dictionary[,SucceedSession := FALSE]
 dictionary[,TrySession := FALSE]
-# dictionary[,Retry := "1990-08-29"]
+# dictionary[,Retry := "2022-01-01"]
 # dictionary[Succeed == TRUE,Retry := "2017-08-29"]
 
 dictionary[Retry < as.character(Sys.Date()), ':=' (Score = Score-1,
-                                                   Retry = "1990-08-29",
+                                                   Retry = "2022-01-01",
                                                    Succeed = FALSE)]
 
 historicalDataOld <- fread('HistoricalData.csv')
