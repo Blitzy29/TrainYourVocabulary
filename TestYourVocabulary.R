@@ -6,6 +6,12 @@ require(magrittr)
 dictionary <- fread('GermanEnglish.csv')
 dictionary[,SucceedSession := FALSE]
 dictionary[,TrySession := FALSE]
+# dictionary[,Retry := "1990-08-29"]
+# dictionary[Succeed == TRUE,Retry := "2017-08-29"]
+
+dictionary[Retry < as.character(Sys.Date()), ':=' (Score = Score-1,
+                                                   Retry = "1990-08-29",
+                                                   Succeed = FALSE)]
 
 historicalDataOld <- fread('HistoricalData.csv')
 historicalDataList <- NULL
@@ -55,17 +61,21 @@ historicalDataNew <- rbindlist(historicalDataList)
 historicalDataNew[,time := as.character(time)]
 historicalData <- rbind(historicalDataOld,historicalDataNew)
 
+write.table(historicalData,
+            file='HistoricalData.csv',
+            sep=";",
+            row.names = FALSE)
+
+
+
 dictionary[,Succeed := Score >= 5]
+dictionary[Succeed == TRUE & SucceedSession == TRUE, Retry := as.character(Sys.Date() + 28)]
 
 write.table(dictionary,
             file='GermanEnglish.csv',
             sep=";",
             row.names = FALSE)
 
-write.table(historicalData,
-            file='HistoricalData.csv',
-            sep=";",
-            row.names = FALSE)
 
 nKnownWordsSession <- dictionary[,sum(SucceedSession)]
 nTryWordsSession <- dictionary[,sum(TrySession)]
